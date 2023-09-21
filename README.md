@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jeevanajyothi-yerramsetti
 - 👀 I’m interested in data analysis and visualizattion
-- 🌱 I’m currently learning data analytics
 - 📫 How to reach me jyothihesbone752@gmail.com
 
 <!---
